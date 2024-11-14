@@ -1,0 +1,11 @@
+huggingface_hub
+langchain
+streamlit
+gradio
+python-dotenv
+pyPDF2
+transformers
+accelerate
+bitsandbytes
+
+-e .
